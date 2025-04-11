@@ -1,5 +1,6 @@
 #simple Bank ATM
-
+#this is ATM PROGRAM
+#by using control statements we wrote this program
 a='''
 1.Deposit
 2.withdraw
